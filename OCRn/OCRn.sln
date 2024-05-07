@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRn", "OCRn.csproj", "{C2270907-F9B2-4DF1-A278-F1B99FC2AACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2270907-F9B2-4DF1-A278-F1B99FC2AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2270907-F9B2-4DF1-A278-F1B99FC2AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2270907-F9B2-4DF1-A278-F1B99FC2AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2270907-F9B2-4DF1-A278-F1B99FC2AACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7036B6-C26B-4DD9-BF81-94CC991E2C69}
+	EndGlobalSection
+EndGlobal
